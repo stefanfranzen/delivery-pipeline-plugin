@@ -13,4 +13,3 @@ USER root
 RUN chown -R jenkins:jenkins /usr/share/jenkins/ref/plugins/delivery-pipeline-plugin.hpi
 
 USER jenkins
-

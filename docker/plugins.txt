@@ -1,3 +1,4 @@
+cors-filter:1.1
 credentials:2.1.11
 job-dsl:1.44
 junit:1.20
